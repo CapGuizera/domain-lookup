@@ -1,45 +1,43 @@
 # domain-lookup
-**DomainLookup is a simple Python tool for performing WHOIS lookup.
-Sure, here's a description for your GitHub repository:
+Claro, aqui está a descrição em português:
 
 ---
 
 ## DomainInfo
 
-DomainInfo is a simple Python tool for performing WHOIS lookups. It connects to the WHOIS server, sends a query, and retrieves information about the specified domain name. This tool is useful for obtaining domain registration details, including the registrar, registration dates, and contact information.
+DomainInfo é uma ferramenta simples em Python para realizar consultas WHOIS. Ela se conecta ao servidor WHOIS, envia uma consulta e recupera informações sobre o nome de domínio especificado. Esta ferramenta é útil para obter detalhes de registro de domínio, incluindo o registrador, datas de registro e informações de contato.
 
-### Features
+### Funcionalidades
 
-- Connects to WHOIS servers to retrieve domain information
-- Decodes and displays the response in a readable format
-- Handles cases where no match is found
+- Conecta-se aos servidores WHOIS para recuperar informações de domínio
+- Decodifica e exibe a resposta em um formato legível
+- Lida com casos onde nenhum resultado é encontrado
 
-### Usage
+### Uso
 
-To use DomainInfo, run the script with the domain name as an argument:
+Para usar o DomainInfo, execute o script com o nome do domínio como argumento:
 
 ```sh
 python whois.py example.com
 ```
 
-### Requirements
+### Requisitos
 
 - Python 3.x
 
-### Installation
+### Instalação
 
-Clone the repository and navigate to the project directory:
+Clone o repositório e navegue até o diretório do projeto:
 
 ```sh
-git clone https://github.com/yourusername/domaininfo.git
+git clone https://github.com/seuusuario/domaininfo.git
 cd domaininfo
 ```
 
-### License
+### Licença
 
-This project is licensed under the MIT License.
+Este projeto é licenciado sob a Licença MIT.
 
 ---
 
-Feel free to customize this description further to suit your needs.
-**
+Sinta-se à vontade para personalizar esta descrição conforme necessário.
