@@ -1,6 +1,4 @@
 # domain-lookup
-Claro, aqui está a descrição em português:
-
 ---
 
 ## DomainInfo
