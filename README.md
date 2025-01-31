@@ -1,5 +1,5 @@
 # domain-lookup
-DomainLookup is a simple Python tool for performing WHOIS lookup.
+**DomainLookup is a simple Python tool for performing WHOIS lookup.
 Sure, here's a description for your GitHub repository:
 
 ---
@@ -42,3 +42,4 @@ This project is licensed under the MIT License.
 ---
 
 Feel free to customize this description further to suit your needs.
+**
