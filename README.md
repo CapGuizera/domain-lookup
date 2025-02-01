@@ -38,4 +38,3 @@ Este projeto é licenciado sob a Licença MIT.
 
 ---
 
-Sinta-se à vontade para personalizar esta descrição conforme necessário.
